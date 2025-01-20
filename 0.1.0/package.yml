@@ -1,0 +1,68 @@
+# Simple package
+
+name: Frases Teocráticas
+parent: default
+
+matches:
+  - trigger: "'qhs"
+
+    replace: "Queridos hermanos"
+  - trigger: "'qh"
+
+    replace: "Querido hermano"
+  - trigger: "'ehs"
+
+    replace: "Estimados hermanos"
+  - trigger: "'eh"
+  
+    replace: "Estimado hermano"
+  - trigger: "'sqa"
+  
+    replace: "Saludos mi querido amigo"
+  - trigger: "'ecb"
+
+    replace: "Espero que con la bendición de Jehová se encuentren bien"
+  - trigger: "'hma"
+
+    replace: "Hola mi amigo"
+  - trigger: "'ccmg"
+
+    replace: "Claro con mucho gusto"
+  - trigger: "'alt"
+
+    replace: "Aquí lo tienes"
+  - trigger: "'cb"
+  
+    replace: "Con la bendición de Jehová"
+  - trigger: "'adj"
+
+    replace: "Adjunto hallarán"
+  - trigger: "'adjLes"
+
+    replace: "Adjunto les envío"
+  - trigger: "'apa"
+  
+    replace: "el aviso de nuestras próximas asambleas para el año"
+  - trigger: "'fa"
+
+    replace: "Favor de anunciarlo"
+  - trigger: "'fatda"
+  
+    replace: "Favor de anunciarlo y ponerlo en el tablero de anuncios"
+  - trigger: "'rcs"
+
+    replace: "Reciban un cordial saludo"
+  - trigger: "'qjcb"
+
+    replace: "Que Jehová continúe bendiciendo su duro trabajo"
+  - trigger: "'rfa"
+
+    replace: "Reciban un fuerte abrazo"
+  - trigger: "'shs"
+
+    replace: "Su hermanos"
+  - trigger: "'sh"
+  
+    replace: "Su hermano"
+
+  
